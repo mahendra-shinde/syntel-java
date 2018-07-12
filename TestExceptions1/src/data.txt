@@ -1,0 +1,4 @@
+mahendra, ceo, 250000
+dharmendra, director, 10000
+jitendra, asst. director, 85000
+karan johar, puen, 5000 
